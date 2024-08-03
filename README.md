@@ -10,5 +10,5 @@ A simple and intuitive calculator app built using React, HTML, CSS, and JavaScri
 ## Install dependencies:
 npm install
 
-##Start the application:
+## Start the application:
 npm start
